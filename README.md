@@ -5,7 +5,7 @@ This professional project write-up summarizes the data-driven sales optimization
 # Project Report: Driving Sales Optimization Through Data-Driven Analysis
 
 ## 1. Project Introduction
-This project was initiated by **Pod Nova Consultancy**, a reputable data analytics and business intelligence firm, to support **BikeGear Solutions** in enhancing its strategic decision-making process. BikeGear Solutions is a multinational retailer specializing in bicycle racks and cycling accessories across Canada, the United States, and Australia. The project's core focus is to transform raw historical sales data into actionable business insights that address critical performance gaps
+BikeGear Solutions is a multinational retailer specializing in bicycle racks and cycling accessories across Canada, the United States, and Australia. The project's core focus is to transform raw historical sales data into actionable business insights that address critical performance gaps
 
 ## 2. Project Overview
 The primary goal of this engagement was to enable smarter business decisions through comprehensive predictive analysis and strategic performance monitoring.
